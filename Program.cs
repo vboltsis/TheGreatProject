@@ -13,5 +13,9 @@ namespace TheGreatProject
         {
             Console.WriteLine("Hello World");
         }
+        static int Addition(int number)
+        {
+            return number + 10;
+        }
     }
 }
