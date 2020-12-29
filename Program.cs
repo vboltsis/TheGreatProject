@@ -7,6 +7,7 @@ namespace TheGreatProject
         static void Main(string[] args)
         {
             Print();
+            Nikos();
         }
 
         static void Print()
@@ -28,5 +29,11 @@ namespace TheGreatProject
         {
             Console.WriteLine();
         }
+
+        static void Nikos()
+        {
+            Console.WriteLine("Hello Nikos - TPG-03");
+        }
+
     }
 }
