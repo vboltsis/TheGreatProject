@@ -35,5 +35,10 @@ namespace TheGreatProject
             Console.WriteLine("Hello Nikos - TGP-03");
         }
 
+        // Method Gia ta paparia sou vageli
+        static void MasKlinoune()
+        {
+            Console.WriteLine("Paei to kanali 67");
+        }
     }
 }
