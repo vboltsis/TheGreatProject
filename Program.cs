@@ -32,7 +32,7 @@ namespace TheGreatProject
 
         static void Nikos()
         {
-            Console.WriteLine("Hello Nikos - TPG-03");
+            Console.WriteLine("Hello Nikos - TGP-03");
         }
 
     }
