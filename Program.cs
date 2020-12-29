@@ -13,5 +13,10 @@ namespace TheGreatProject
         {
             Console.WriteLine("Hello World");
         }
+
+        static void Sugar()
+        {
+            Console.WriteLine("This is the bestest method.");
+        }
     }
 }
