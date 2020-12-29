@@ -19,6 +19,11 @@ namespace TheGreatProject
             Console.WriteLine("This is the bestest method.");
         }
 
+        static int Addition(int number)
+        {
+            return number + 10;
+        }
+
         static void FtiakseMiaMethodo()
         {
             Console.WriteLine();
