@@ -18,5 +18,10 @@ namespace TheGreatProject
         {
             Console.WriteLine("This is the bestest method.");
         }
+
+        static void FtiakseMiaMethodo()
+        {
+            Console.WriteLine();
+        }
     }
 }
