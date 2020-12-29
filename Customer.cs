@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TheGreatProject
+﻿namespace TheGreatProject
 {
     class Customer
     {
+        //again HELLO
     }
 }
