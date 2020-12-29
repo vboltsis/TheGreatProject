@@ -13,5 +13,10 @@ namespace TheGreatProject
         {
             Console.WriteLine("Hello World");
         }
+        // Method Gia ta paparia sou vageli
+        static void MasKlinoune()
+        {
+            Console.WriteLine("Paei to kanali 67");
+        }
     }
 }
