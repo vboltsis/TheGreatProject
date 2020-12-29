@@ -13,5 +13,10 @@ namespace TheGreatProject
         {
             Console.WriteLine("Hello World");
         }
+
+        static void FtiakseMiaMethodo()
+        {
+            Console.WriteLine();
+        }
     }
 }
